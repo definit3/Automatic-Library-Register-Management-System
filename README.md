@@ -16,7 +16,8 @@ TO DO
 ## Built With
 
 * [OpenCV](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html) - OpenCV Libraries used.
-* [Microsoft Face API](https://docs.microsoft.com/en-gb/azure/cognitive-services/face/overview)
+* [Microsoft Face API](https://docs.microsoft.com/en-gb/azure/cognitive-services/face/overview) - Microsoft API used.
+
 Use Microsoft one for better accuracy.
 
 ## Authors
