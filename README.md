@@ -1,17 +1,9 @@
 # Automatic-Library-Register-Management-System
-[Ongoing Project] Automatic Library Register Management System is a software that can be used to automatically maintain the student registers in library of schools, colleges and institutes using face recognition.
-
-## Getting Started
-
-TO DO
+Automatic Library Register Management System is a software that can be used to automatically maintain the student registers in library of schools, colleges and institutes using face recognition.
 
 ### Prerequisites
 
 Python 2.7
-
-### Installing
-
-TO DO
 
 ## Built With
 
